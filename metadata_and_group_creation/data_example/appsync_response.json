@@ -1,0 +1,337 @@
+{
+    "biosampleMetadataColumns": "{\"columns\":[{\"editable\":true,\"name\":\"test_meta\",\"description\":\"Something...\",\"type\":\"Number\"},{\"editable\":true,\"name\":\"new_excel_column\",\"description\":\"import test column\",\"type\":\"Number\",\"value\":null}]}",
+    "biosamples": {
+        "items": [
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC2",
+                "fastqValidationStatus": "Missing FASTQs",
+                "size": null,
+                "r1FastqTotalReads": null,
+                "r2FastqTotalReads": null,
+                "r1FastqLength": null,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":25}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNA100pg1",
+                "fastqValidationStatus": "Pass",
+                "size": 237642291.0,
+                "r1FastqTotalReads": 3496868,
+                "r2FastqTotalReads": 3496868,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":24}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-100pg-YES4",
+                "fastqValidationStatus": "Pass",
+                "size": 43873992.0,
+                "r1FastqTotalReads": 618750,
+                "r2FastqTotalReads": 618750,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"test_meta\":32,\"new_excel_column\":32000}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC24",
+                "fastqValidationStatus": "Pass",
+                "size": 62617025.0,
+                "r1FastqTotalReads": 884636,
+                "r2FastqTotalReads": 884636,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":23}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-100pg-YES3",
+                "fastqValidationStatus": "Pass",
+                "size": 53464881.0,
+                "r1FastqTotalReads": 771217,
+                "r2FastqTotalReads": 771217,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"test_meta\":31,\"new_excel_column\":31000}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC4",
+                "fastqValidationStatus": "Pass",
+                "size": 206653508.0,
+                "r1FastqTotalReads": 3098731,
+                "r2FastqTotalReads": 3098731,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":22}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC13",
+                "fastqValidationStatus": "Pass",
+                "size": 53903568.0,
+                "r1FastqTotalReads": 761991,
+                "r2FastqTotalReads": 761991,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":21}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC3",
+                "fastqValidationStatus": "Pass",
+                "size": 410519002.0,
+                "r1FastqTotalReads": 6167010,
+                "r2FastqTotalReads": 6167010,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":20}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC11",
+                "fastqValidationStatus": "Pass",
+                "size": 57192066.0,
+                "r1FastqTotalReads": 808064,
+                "r2FastqTotalReads": 808064,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":19}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC18",
+                "fastqValidationStatus": "Pass",
+                "size": 52293327.0,
+                "r1FastqTotalReads": 740679,
+                "r2FastqTotalReads": 740679,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":18}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC12",
+                "fastqValidationStatus": "Pass",
+                "size": 53316824.0,
+                "r1FastqTotalReads": 756640,
+                "r2FastqTotalReads": 756640,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":17}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC5",
+                "fastqValidationStatus": "Pass",
+                "size": 284771818.0,
+                "r1FastqTotalReads": 4210588,
+                "r2FastqTotalReads": 4210588,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":16}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC09",
+                "fastqValidationStatus": "Pass",
+                "size": 53411489.0,
+                "r1FastqTotalReads": 753315,
+                "r2FastqTotalReads": 753315,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":30}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC22",
+                "fastqValidationStatus": "Pass",
+                "size": 77486892.0,
+                "r1FastqTotalReads": 1045934,
+                "r2FastqTotalReads": 1045934,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":15}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC14",
+                "fastqValidationStatus": "Pass",
+                "size": 55441253.0,
+                "r1FastqTotalReads": 785650,
+                "r2FastqTotalReads": 785650,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":14}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC16",
+                "fastqValidationStatus": "Pass",
+                "size": 80892530.0,
+                "r1FastqTotalReads": 1148713,
+                "r2FastqTotalReads": 1148713,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":13}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC13",
+                "fastqValidationStatus": "Pass",
+                "size": 43522323.0,
+                "r1FastqTotalReads": 663501,
+                "r2FastqTotalReads": 663501,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":12}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC19",
+                "fastqValidationStatus": "Pass",
+                "size": 54869974.0,
+                "r1FastqTotalReads": 763464,
+                "r2FastqTotalReads": 763464,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":11}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC11",
+                "fastqValidationStatus": "Pass",
+                "size": 259200595.0,
+                "r1FastqTotalReads": 3929437,
+                "r2FastqTotalReads": 3929437,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":10}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC20",
+                "fastqValidationStatus": "Pass",
+                "size": 59105295.0,
+                "r1FastqTotalReads": 834588,
+                "r2FastqTotalReads": 834588,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":9}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC1",
+                "fastqValidationStatus": "Pass",
+                "size": 153964832.0,
+                "r1FastqTotalReads": 2291180,
+                "r2FastqTotalReads": 2291180,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":8}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-NO-SC24",
+                "fastqValidationStatus": "Pass",
+                "size": 37560863.0,
+                "r1FastqTotalReads": 502637,
+                "r2FastqTotalReads": 502637,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":29}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC15",
+                "fastqValidationStatus": "Pass",
+                "size": 52832862.0,
+                "r1FastqTotalReads": 743475,
+                "r2FastqTotalReads": 743475,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":7}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-100pg-YES1",
+                "fastqValidationStatus": "Pass",
+                "size": 49768889.0,
+                "r1FastqTotalReads": 715731,
+                "r2FastqTotalReads": 715731,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":28}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC10",
+                "fastqValidationStatus": "Pass",
+                "size": 49558202.0,
+                "r1FastqTotalReads": 701231,
+                "r2FastqTotalReads": 701231,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":27}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC7",
+                "fastqValidationStatus": "Pass",
+                "size": 78230933.0,
+                "r1FastqTotalReads": 1168782,
+                "r2FastqTotalReads": 1168782,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":6}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC21",
+                "fastqValidationStatus": "Pass",
+                "size": 57785576.0,
+                "r1FastqTotalReads": 811837,
+                "r2FastqTotalReads": 811837,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":5}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-100pg-YES2",
+                "fastqValidationStatus": "Pass",
+                "size": 53227181.0,
+                "r1FastqTotalReads": 773380,
+                "r2FastqTotalReads": 773380,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.211Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":26}"
+            },
+            {
+                "biosampleName": "AACYY72M5-MN-RNA-YES-SC17",
+                "fastqValidationStatus": "Pass",
+                "size": 50539733.0,
+                "r1FastqTotalReads": 712524,
+                "r2FastqTotalReads": 712524,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":4}"
+            },
+            {
+                "biosampleName": "AAANFH5M5-stepup-Molm13-R-RNASC9",
+                "fastqValidationStatus": "Pass",
+                "size": 246681813.0,
+                "r1FastqTotalReads": 3732009,
+                "r2FastqTotalReads": 3732009,
+                "r1FastqLength": 51,
+                "created": "2023-10-17T08:34:27.277Z",
+                "lotId": "",
+                "metadata": "{\"new_excel_column\":3}"
+            }
+        ]
+    }
+}

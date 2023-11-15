@@ -1,0 +1,24 @@
+dash-iconify==0.1.2
+boto3==1.22.12
+botocore==1.25.12
+gunicorn==20.0.4
+dash==2.10.2
+dash-bio==1.0.2
+dash-canvas==0.1.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash_mantine_components==0.12.1
+dash_bootstrap_components==1.1.0
+dash-table==5.0.0
+python-dotenv==0.20.0
+numpy==1.19.5
+pandas==1.1.5
+plotly==5.8.0
+pyrsistent==0.18.0
+dash-ag-grid==2.3.0
+Flask<=2.2.4
+ipywidgets>=7.0.0
+
+# the below ones don't work
+external_dependencies/dash_design_kit-1.8.1.tar.gz
+# dash-design-kit==1.8.1 --trusted-host https://plotly.kube-dev.aws.bioskryb.com --extra-index-url https://plotly.kube-dev.aws.bioskryb.com/packages/dash-design-kit/
